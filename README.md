@@ -1,6 +1,6 @@
 ## Go-News-Aggregrator
 
-A news aggregator written in Go using Washington Post's sitemap. Reduced idle server time by *6x* by using concurrency patterns such as channels and waitgroups
+A news aggregator written in Go using Washington Post's sitemap. Reduced idle server time by **6x** by using concurrency patterns such as channels and waitgroups
 
 ## Usage:
 1. Clone the repository at a desired location
