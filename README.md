@@ -1,6 +1,6 @@
 ## Go-News-Aggregrator
 
-A news aggregator written in Go using Washington Post's sitemap. Used CSS for styling and layouts
+A news aggregator written in Go using Washington Post's sitemap
 
 ## Motivation
 
