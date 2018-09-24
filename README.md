@@ -4,7 +4,7 @@ A news aggregator written in Go using Washington Post's sitemap
 
 ## Motivation
 
-After taking a course in operating systems and concurrency in C, I was interested in learning more about concurrency patterns. I learned that Go had excellent concurrency resources and I decided to learn about them. By using waitgroups and go rountines in this project, the sitemap was getting loaded **6x** faster
+After taking a course in operating systems and concurrency in C, I was interested in learning more about concurrency patterns. I learned that Go had excellent concurrency resources and I decided to learn about them. By using waitgroups and go rountines in this project, the sitemap was loaded  **6x** faster
 
 ## Screenshots
 
